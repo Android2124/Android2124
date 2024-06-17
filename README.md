@@ -26,7 +26,7 @@
 
 
 
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Android2124&layout=compact&theme=synthwave&v=2)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Android2124&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
